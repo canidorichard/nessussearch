@@ -12,6 +12,7 @@ Option | Description
 -h, --help | Show help text
 -f FILE, --file FILE | Specify input file(s)
 -c, --case_sensitive  | Case sensitive search
+-d, --debug | Output debug messages
 -o OUTPUT, --output OUTPUT | Specify output format
 | xml      - Output host record as XML
 | xml_min  - Output the element containing the regex match as XML
